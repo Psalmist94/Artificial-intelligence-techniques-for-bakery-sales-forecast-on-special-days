@@ -1,0 +1,3 @@
+# Artificial-intelligence-techniques-for-bakery-sales-forecast-on-special-days
+Predicting sales on special days (holidays) is a very crucial issue in the bakery industry, hence there is a need for accurate prediction to improve the inventory management of the bakery industry.
+Accurately anticipating sales figures for holidays is an essential component of effective inventory management for bakeries. Without such predictive insight, significant losses may be incurred due to overstocking or inadequate stock levels. Therefore, careful analysis of sales data and market trends is a fundamental aspect of running a successful bakery business.
